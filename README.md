@@ -46,12 +46,6 @@ Deep learning model for classifying mental health conditions from text data usin
 ### 🌐 **UNITY AID: One Platform, Endless Support**  
 A community-based platform connecting users and volunteers through real-time emergency requests.
 
-### 💬 **Online Storytelling Hub**  
-A web platform designed for user-generated storytelling with interactive features.
-
-### 🔌 **Arduino Shift Registers Demo**  
-Hardware project demonstrating efficient control of multiple outputs using shift registers.
-
 > 📌 Visit the Repositories section to explore code, demos, and documentation.
 
 ---
