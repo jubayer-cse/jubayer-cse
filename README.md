@@ -25,7 +25,7 @@ I’m a motivated undergraduate student in Computer Science & Engineering, curre
 ## 🚀 Skills
 
 ### 🧑‍💻 Languages & Frameworks
-Python | C / C++ | Java | HTML | CSS | JavaScript | PHP
+Python | C / C++ | Java | HTML | CSS | JavaScript | PHP |MySQL
 
 ### 🛠️ Tools & Technologies
 TensorFlow | Scikit-learn | Pandas | NumPy | Git & GitHub | LaTeX  
