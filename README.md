@@ -58,7 +58,7 @@ Hardware project demonstrating efficient control of multiple outputs using shift
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-jubayer-cse/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-jubayer-cse/)  
 [![Mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail)](mailto:jubayer52786@gmail.com)
 
 ---
