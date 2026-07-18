@@ -40,10 +40,8 @@ I enjoy building interactive reporting systems, optimizing data workflows, and d
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
 </p>
----
-
 ### 📘 Core Areas
 
 <p align="left">
