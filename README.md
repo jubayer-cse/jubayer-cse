@@ -41,6 +41,6 @@ Because of my engineering background, I don't just build dashboards—I write cl
 
 ## 📬 Connect with Me
 
-*   **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+*   **LinkedIn:** [linkedin.com/in/yourusername](www.linkedin.com/in/md-jubayer-cse-ml)
 *   **Portfolio/Website:** [yourportfolio.com](https://yourportfolio.com)
-*   **Email:** your.email@example.com
+*   **Email:** jubayer52786@gmail.com
