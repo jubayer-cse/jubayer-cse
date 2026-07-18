@@ -37,7 +37,7 @@ I enjoy building interactive reporting systems, optimizing data workflows, and d
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,git,github,latex,ps,ai" height="48" />
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI_64.svg" alt="Power BI" width="48" height="48" style="vertical-align: top; margin-left: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" alt="Power BI" width="44" height="44" style="vertical-align: middle; margin-left: 8px;" />
 </p>
 ### 📘 Core Areas
 
