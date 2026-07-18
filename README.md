@@ -36,10 +36,12 @@ I enjoy building interactive reporting systems, optimizing data workflows, and d
 ### 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi,tensorflow,sklearn,git,github,latex" />
-  <img src="https://skillicons.dev/icons?i=ps,ai" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,git,github,latex,ps,ai" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
 ---
 
 ### 📘 Core Areas
