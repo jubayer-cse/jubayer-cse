@@ -36,19 +36,19 @@ I enjoy building interactive reporting systems, optimizing data workflows, and d
 ### 🛠️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,git,github,latex,ps,ai" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" alt="Power BI" width="44" height="44" style="vertical-align: middle; margin-left: 8px;" />
-</p>
-### 📘 Core Areas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power%20BI%20%26%20DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,git,github,latex,ps,ai" />
 </p>
 
 ---
+
+### 📘 Core Areas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI%20%26%20DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge" />
+</p>
 
 ## 📂 Featured Projects
 
